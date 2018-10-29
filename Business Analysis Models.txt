@@ -1,0 +1,65 @@
+
+The role of the business analyst (BA) requires not only sound data analysis but effective data modeling. The right visual model streamlines data and makes it easy for stakeholders at every level to identify and understand project strategies, relationships, and responsibilities.
+
+What is a business analysis model?
+A business analysis model outlines the steps a business takes to complete a specific process, such as ordering a product or onboarding a new hire. Process modeling (or mapping) is key to improving process efficiency, training, and even complying with industry regulations.
+
+Because there are many different kinds of processes, organizations, and functions within a business, BAs employ a variety of visual models to map and analyze data.
+
+Look at these eight essential business analysis models
+
+1. Activity diagrams
+Activity diagrams are a type of UML behavioral diagram that describes what needs to happen in a system. They are particularly useful for communicating process and procedure to stakeholders from both the business and development teams.
+
+A BA might use an activity diagram to map the process of logging in to a website or completing a transaction like withdrawing or depositing money.
+
+2. Feature mind maps
+ Feature mind maps help BAs organize the sometimes messy brainstorm process so that ideas, concerns, and requests are clearly captured and categorized.
+
+3. Product roadmaps
+Product (or feature) roadmaps outline the development and launches of a product and its features. They are a focused analysis of a product’s evolution, which helps developers and other stakeholders focus on initiatives that add direct value to the user.
+
+The beauty of product roadmaps lies in their flexibility and range of applications. BAs can create different product roadmaps to illustrate different information, including:
+
+Maintenance and bug fixes
+Feature releases
+High-level strategic product goals
+While product roadmaps are commonly used internally by development teams, they are also useful resources for other groups like sales.
+
+A defined product outline and schedule helps sales stay on the same page as the developers so they can deliver accurate, updated information to their prospects and clients. Because of their versatility and broad applications across teams and organizations, product roadmaps are a core part of an analyst’s toolbox.
+
+4. Organizational charts
+Organizational charts outline the hierarchy of a business or one of its departments or teams. They are especially helpful reference charts for employees to quickly understand how the company is organized and identify key stakeholders and points of contact for projects or queries.
+
+Additionally, organizational charts prove useful for stakeholder analysis and modeling new groupings and teams following organizational shifts.
+
+5. SWOT analysis
+The SWOT analysis is a fundamental tool in a BA’s arsenal. SWOT stands for strengths, weaknesses, opportunities, and threats. A SWOT analysis evaluates a business’s strengths and weaknesses and identifies any opportunities or threats to that business.
+
+SWOT analysis helps stakeholders make strategic decisions regarding their business. The goal is to capitalize on strengths and opportunities while reducing the impact of internal or external threats and weaknesses.
+
+From a visual modeling perspective, SWOT analysis is fairly straightforward. A typical model will have four boxes or quadrants—one for each category—with bulleted lists outlining the respective results.
+
+6. User interface wireframe
+Another essential business diagram is the UI wireframe. Software development teams use wireframes (also called mockups or prototypes) to visually outline and design a layout for a specific screen. In other words, wireframes are the blueprints for a website or software program. They help stakeholders assess navigational needs and experience for a successful practical application.
+
+Wireframes range from low-fidelity to high-fidelity prototypes. Low-fidelity wireframes are the most basic outlines, showing only the bare-bones layout of the screen. High-fidelity wireframes are typically rendered in the later planning stages and will include specific UI elements (e.g., buttons, drop-down bars, text fields, etc.) and represent how the final implementation should look on the screen.
+
+7. PESTLE analysis
+A PESTLE analysis often goes hand-in-hand with a SWOT analysis. PESTLE evaluates external factors that could impact business performance. This acronym stands for six elements affecting business: political, economic, technological, environmental, legal, and sociological.
+
+PESTLE analysis assesses the possible factors within each category, as well as their potential impact, duration of effect, type of impact (i.e., negative or positive), and level of importance.
+
+This type of business analysis helps stakeholders manage risk, strategically plan and review business goals and performance, and potentially gain an advantage over competitors.
+
+8. Entity-relationship diagram
+An entity-relationship diagram (ER diagram) illustrates how entities (e.g., people, objects, or concepts) relate to one another in a system. For example, a logical ER diagram visually shows how the terms in an organization’s business glossary relate to one another.
+
+ER diagrams comprise three main parts:
+
+Entities
+Relationships
+Attributes
+Attributes apply to the entities, describing further details about the concept. Relationships are where the key insights from ER diagrams arise. In a visual model, the relationships between entities are illustrated either numerically or via crow’s foot notation.
+
+These diagrams are most commonly used to model database structures in software engineering and business information systems and are particularly valuable tools for BAs in those fields.
