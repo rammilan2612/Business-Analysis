@@ -1,0 +1,27 @@
+Role of BA in SDLC
+Evaluation Phase
+This phase is sometimes called the Initiation Stage but essentially, this is where the cycle starts. An idea or concept is evaluated and a proposal is put forward.
+The more senior business analysts tend to get involved during this stage where the business need or business problem is evaluated at a very high level. You business analyst role here could include:
+•	Developing a Concept Statement
+•	Perform a Feasibility Study
+•	Prepare an Options Analysis
+•	Prepare an Impact Analysis
+•	Prepare a Cost Benefit Analysis
+Analysis Phase
+During the Analysis Phase most of the typical business analysis requirements related activities take place.
+You will be heavily involved in:
+•	Requirements Gathering – Workshop Facilitation, Interviews, Observation, Research
+•	Requirements Documentation – Business Requirements document, Requirements Traceability document, Functional & Non Functional Requirements documents
+•	This is where you will also use your modelling skills to document business requirements.
+•	Requirements Validation & Prioritization activities
+•	Stakeholder Engagement
+Design Phase
+The Design Phase is when your requirements are being interpreted by the solution design teams / evaluated by the software vendors. You role here is typically to:
+•	Review the solution documents
+•	Work closely with solution designer and architects to ensure requirements are clear
+•	Keep the stakeholder engaged to reassure them their requirements are implemented as specified in the business requirement artefacts.
+•	Manage the changes to requirements both from the business and from your solution designerís point of view through a change control process. It is a great time to actively start using the Requirements Traceability Matrix!
+Implementation Phase
+In small teams it can happen that the BA is asked to clarify requirements or in Agile projects the BA will be asked to review prototypes.
+Testing Phase
+During the testing phase the Business Analyst can assist with reviewing test scripts to ensure all functional requirements are being tested. The role of a Business Analyst is not to actually execute the testing! Testers do that.
