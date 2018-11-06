@@ -1,0 +1,90 @@
+Business Analysis Process
+
+For any Business Analyst the biggest challenge after getting a project is, how to start and from where to start the project? Or what deliverables might be creating and how to complete the project successfully?
+
+Below are step by step some of the key techniques from the day 1 business analysis process till the end of the planning stage.
+
+Step 1) - Gather all information about the project
+It is business analyst's responsibility to gather all the details related to the project. By asking questions to people connected with the project (project manager, project sponsor, manager or business owner).
+
+The information gathered should cover these topics
+
+Project scope and boundaries
+Current factors influencing the organization
+Project risk and constraints
+Broader organizational context
+Stakeholders that are actively involved in it. This would be a good time to conduct Stakeholder Needs Analysis
+
+After gathering all this information, analyze your part in the project and make a checklist that as a Business analyst you can include like
+
+From your previous experience what you can implement in your current project
+Documentation and planning required into the current project
+Discussing the possible outcome of the project with stakeholders
+Sort out the members that are involved in the project
+Look for any help from client - fixing a meeting with the stakeholders
+What are the expected deliverable and in what format it is required
+What existing documentation you can review for better project idea
+Find out what methodology (Agile or Waterfall) will be appropriate for your project
+
+
+Step 2) Set up a review meeting with Project manager/ Stakeholder/ Team members
+An unclear agenda may lead to a failure of the project.
+
+Be specific in what is expected out of the project.
+Involve Project manager/ Stakeholder/ Team members in meeting and ask questions related to project
+It is very likely that you might be working on completely new project, in that case, ask project manager or contact person who has worked in that domain before
+Step 3) Analyze all the project relevant documents like
+Business process documentation
+Business and system requirements documents
+Business cases
+Charts and flow diagrams
+Project plans
+Organization chart
+Strategy documents and business plans
+Policies and legislation
+Uncover the information hidden in business requirement document and trace out any gaps with current systems, processes, procedures and operations. It is possible that document that is provided to you is out of date, so validate the information that you discover.
+
+Step 4) Record all the facts and information that you discover
+From your research and analysis, you may discover many useful information relevant to the project that has to be changed or implemented in the project. Record them.
+
+Business requirements including reporting requirements
+Business processes and supporting systems
+Functional and non-functional requirements
+Issues and risks that are currently influencing the project
+
+Step 5) Understanding the problem domain
+By now you will have a good insight of the project, now you can identify the problem domain in the project. You need to find out
+
+Exactly which business function will be affected
+Risks and factors affecting the business
+Policies and constraints that influence the project
+Values that determines the level of importance of the project
+System currently supports the business activities
+Document giving brief about the problem domain- e.g., Annual Report
+Issues currently blocking the business to achieve the desired outcomes
+On proposed change does it make any difference to problem domain
+
+Step 6) Presenting your Business Requirement
+Once you have gather all your business requirement and understand the problem domain. The next step is presenting your Business Requirement to Stakeholders or Project Manager. There are numerous techniques which can be used for presenting requirement like
+
+A table or spreadsheet
+A diagram or graph
+A prototype or simulation
+A structured text template or structured sentence
+
+Glossary of words that will give quick overview of business analyst process
+
+Purpose: Defines the purpose of the business analysis activities required for the proposed initiative
+Scope: Defines the deliverables that are included and excluded
+Root Cause: Define the root causes of the issues identified
+Current Condition: Defines the problem that cause the need for change
+Planned Activities: Defines the reason for the activity, deliverables, and delivery dates
+Stakeholder Engagement plan: It gives an overview of the stakeholder engagement process
+Quality Management: It describes the activities that will ensure the quality of project deliverables
+Target Condition: Defines how critical issues identified will be addressed
+Quick tips for Business Analyst
+Ask questions in meetings
+Be prepared before stakeholder meeting or review
+Be adaptable to change and new experience
+Manage expectations
+Respond to feedback
