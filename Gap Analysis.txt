@@ -1,0 +1,25 @@
+Gap Analysis
+
+Gap analysis is a technique that can be used to assess if an enterprise can meet its needs using its present capabilities. The capabilities that may be examined for improvement include staff competencies, facilities, applications, technical infrastructure, processes, lines of business, to mention a few.
+
+Any exercise that involves comparing the present state of the business with a conceptual and desired future state, with the objective of “closing the gap” can be called gap analysis.
+
+Imagine a situation where you have been asked to improve the performance or efficiency of a particular unit of an organization. You have no clue whatsoever as to what set of factors is the real cause of the degraded performance you have been asked to improve. Identifying the gap between what is expected and what you are delivering, that is, the difference between the current state and the future state, is referred to as “Gap Analysis”.
+
+As far as business definition is concerned, gap analysis can be defined in a number of ways, which more or less point towards the same meaning:
+
+1. It is the process through which a company compares its current or actual performance to its expected performance to determine whether it is meeting its objectives and using its resources effectively.
+
+2. It is a technique that businesses use to determine what steps need to be taken in order to move from their current states to their desired future states.
+
+From both definitions, it is evident that gap analysis is a technique that can help a business reach its peak eventually. By defining and analyzing gaps, a project team can create an action plan to move the business forward and fill performance gaps.
+
+Digging further, we will see that gap analysis is not just a one-step process. It involves three stages which can sometimes prove to be somewhat time-consuming and tedious if the improvements to be made are not clear. These three stages include:
+
+1. Accurately defining the required changes/future goals: If you are not clear about the organization’s goals, all your efforts will be in vain. The first and foremost thing to be done is to identify what exactly the goals of the business are and the changes needed to achieve these goals. If the goal is not clear, the improvement exercise will keep on deviating from its desired path.
+
+2. Identifying the current scenario and associated issues: In order to reach ‘where you want to be’, you have to first assess ‘where you stand.’ For example, a failure to see the real reason behind the poor performance of the relevant units of your business may affect profit and growth on the long run. At this stage, the analyst may organize brainstorming sessions, employee interviews, document review sessions to gain insight into present challenges. Only after a comprehensive definition of present challenges can one get a clear picture of the situation.
+
+3. Devising the action plan: Now that you know the present and future expectations, you can think of the how factor, which is in form of a plan. How will you implement the action plan to close the identified gaps? The solutions may include a number of steps like hiring more employees, procuring extra machines and equipment, offering perks and incentives to get the best out of employees and so on.
+
+It can be inferred that for a business to achieve consistent growth, periodic gap analysis efforts should be encouraged since they play an important role in measuring performance and defining the key activities that need to be completed to attain the desired future state.
