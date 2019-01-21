@@ -1,0 +1,6 @@
+
+Business analytics (BA) refers to all the methods and techniques that are used by an organization to measure performance. Business analytics are made up of statistical methods that can be applied to a specific project, process or product. Business analytics can also be used to evaluate an entire company. Business analytics are performed in order to identify weaknesses in existing processes and highlight meaningful data that will help an organization prepare for future growth and challenges.
+
+The need for good business analytics has spurred the creation of business analytics software and enterprise platforms that mine an organization’s data in order to automate some of these measures and pick out meaningful insights.
+
+Although the term has become a bit of a buzzword, business analytics are a vital part of any business. Business analytics make up a large portion of decision support systems, continuous improvement programs and many of the other techniques used to keep a business competitive. Consequently, accurate business analytics like efficiency measures and capacity utilization rates are the first step to properly implementing these techniques.
