@@ -1,0 +1,11 @@
+Pareto Analysis is a statistical technique in decision-making used for the selection of a limited number of tasks that produce significant overall effect. It uses the Pareto Principle (also known as the 80/20 rule) the idea that by doing 20% of the work you can generate 80% of the benefit of doing the entire job. Take quality improvement, for example, a vast majority of problems (80%) are produced by a few key causes (20%). This technique is also called the vital few and the trivial many.
+
+In the late 1940s Romanian-born American engineer and management consultant, Joseph M. Juran suggested the principle and named it after Italian economist Vilfredo Pareto, who observed that 80% of income in Italy went to 20% of the population. Pareto later carried out surveys in some other countries and found to his surprise that a similar distribution applied.
+
+We can apply the 80/20 rule to almost anything:
+
+80% of customer complaints arise from 20% of your products and services.
+80% of delays in the schedule result from 20% of the possible causes of the delays.
+20% of your products and services account for 80% of your profit.
+20% of your sales force produces 80% of your company revenues.
+20% of a systems defects cause 80% of its problems.
