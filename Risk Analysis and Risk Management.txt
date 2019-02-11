@@ -1,0 +1,45 @@
+Risk Analysis and Risk Management
+
+Risk analysis is the process of identifying and analyzing potential issues that could negatively impact key business initiatives or critical projects in order to help organizations avoid or mitigate those risks.
+
+Performing a risk analysis includes considering the probability of adverse events caused by either natural processes, like severe storms, earthquakes or floods, or adverse events caused by malicious or inadvertent human activities; an important part of risk analysis is identifying the potential for harm from these events, as well as the likelihood that they will occur.
+
+Enterprises and other organizations use risk analysis to:
+
+ Anticipate and reduce the effect of harmful results from adverse events;
+ 
+ Evaluate whether the potential risks of a project are balanced by its benefits to aid in the decision process when evaluating whether to move forward with the       project;
+ 
+ Plan responses for technology or equipment failure or loss from adverse events, both natural and human-caused;
+ 
+ Identify the impact of and prepare for changes in the enterprise environment, including the likelihood of new competitors entering the market or changes to      government regulatory policy.
+
+Benefits of risk analysis
+Organizations must understand the risks associated with the use of their information systems to effectively and efficiently protect their information assets.
+Risk analysis can help an organization improve its security in a number of ways. Depending on the type and extent of the risk analysis, organizations can use the results to help:
+
+Identify, rate and compare the overall impact of risks to the organization, in terms of both financial and organizational impacts;
+Identify gaps in security and determine the next steps to eliminate the weaknesses and strengthen security;
+Enhance communication and decision-making processes as they relate to information security;
+Improve security policies and procedures and develop cost-effective methods for implementing these information security policies and procedures;
+Put security controls in place to mitigate the most important risks;
+Increase employee awareness about security measures and risks by highlighting best practices during the risk analysis process; and
+Understand the financial impacts of potential security risks.
+
+Done well, risk analysis is an important tool for managing costs associated with risks, as well as for aiding an organization's decision-making process.
+
+Steps in risk analysis process
+The risk analysis process usually follows these basic steps:
+
+Conduct a risk assessment survey: This first step, getting input from management and department heads, is critical to the risk assessment process. The risk assessment survey is a way to begin documenting specific risks or threats within each department.
+
+Identify the risks: The reason for performing risk assessment is to evaluate an IT system or other aspect of the organization and then ask: What are the risks to the software, hardware, data and IT employees? What are the possible adverse events that could occur, such as human error, fire, flooding or earthquakes? What is the potential that the integrity of the system will be compromised or that it won't be available?
+
+Analyze the risks: Once the risks are identified, the risk analysis process should determine the likelihood that each risk will occur, as well as the consequences linked to each risk and how they might affect the objectives of a project.
+
+Develop a risk management plan: Based on an analysis of which assets are valuable and which threats will probably affect those assets negatively, the risk analysis should produce control recommendations that can be used to mitigate, transfer, accept or avoid the risk.
+
+Implement the risk management plan: The ultimate goal of risk assessment is to implement measures to remove or reduce the risks. Starting with the highest-priority risk, resolve or at least mitigate each risk so it's no longer a threat.
+
+Monitor the risks: The ongoing process of identifying, treating and managing risks should be an important part of any risk analysis process.
+The focus of the analysis, as well as the format of the results, will vary depending on the type of risk analysis being carried out.
